@@ -1,0 +1,13 @@
+name: 我的新闻抓取
+
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 测试运行
+        run: echo "工作流成功启动了！"
