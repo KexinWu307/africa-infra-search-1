@@ -28,7 +28,7 @@
 +塞内加尔
 +Senegal
 +科特迪瓦
-+Cote d‘Ivoire
++Cote d'Ivoire
 +尼日利亚
 +Nigeria
 +喀麦隆
@@ -55,7 +55,6 @@
 +China Exim Bank
 +国家国际发展合作署
 +CIDCA
-
 # 词组B：核心行业（必须包含）
 +智慧城市
 +Smart City
